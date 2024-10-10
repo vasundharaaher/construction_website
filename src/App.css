@@ -1,0 +1,43 @@
+h1{
+  text-align: center;
+  background-color: #282c34;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: azure;
+}
+.img{
+  height:10vmin;
+  border-radius: 15vmin;
+}
+
+
+.nav-link{
+  font-size: 5vmin;
+  color: black;
+}
+.nav-item{
+  font-family: initial;
+}
+/* Navbar styles */
+.custom-navbar {
+  background-color: #a19e9e; /* Darker gray color */
+}
+
+.custom-navbar-toggler {
+  color: white;
+}
+
+.custom-navbar-toggler-icon {
+  background-image: url('data:image/svg+xml,...');
+}
+
+.custom-navbar-brand {
+  color: white;
+}
+
+.custom-navbar-nav .custom-nav-link {
+  color: rgb(8, 8, 8);
+}
+
+.custom-navbar-nav .custom-nav-link:hover {
+  color: #ddd;
+}
